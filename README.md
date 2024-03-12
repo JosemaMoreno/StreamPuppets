@@ -8,6 +8,9 @@ Este programa ofrece una experiencia única al permitir a los streamers incorpor
   ```shell
   python --version
   ```
+  o si no lo tienes instalado podras hacerlo desde la web oficial:
+  [Python.org](https://www.python.org/)
+  
 * Instala la libreria pygame:
   ```shell
   pip3 install pygame
